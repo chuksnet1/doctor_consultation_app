@@ -1,0 +1,114 @@
+.whatwedo-container{
+    margin: 30px;
+    height: 670px;
+}
+.whatwedo-top{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.whatwedo-top h2{
+    font-size: 50px;
+    font-weight: 300;
+    color: rgb(77, 77, 148);
+}
+
+.whatwedo-top h1{
+    font-size: 50px;
+    font-weight: 600;
+    color: rgb(77, 77, 148);
+}
+
+.whatwedo-image{
+    height: 30px;
+    width: 100%;
+    display: flex;
+    gap: 20px;
+}
+
+.wedo-imgages-1{
+    height: 270px;
+    width: 25%;
+    box-shadow: 1px 1px 3px 1px black;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.wedo-imgages-1 img{
+    height: 180px;
+    width: 300px;
+    margin: 5px;
+    border-radius: solid black;
+    background-color: red;
+    border-radius: 5px;
+}
+.wedo-imgages-2 {
+    height: 270px;
+    width: 25%;
+    box-shadow: 1px 1px 3px 1px black;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.wedo-imgages-2 img{
+    height: 180px;
+    width: 300px;
+    margin: 5px;
+    border-radius: solid black;
+    background-color: red;
+    border-radius: 5px;
+}
+
+.wedo-imgages-3 {
+    height: 270px;
+    width: 25%;
+    box-shadow: 1px 1px 3px 1px black;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.wedo-imgages-3 img{
+    height: 180px;
+    width: 300px;
+    margin: 5px;
+    border-radius: solid black;
+    background-color: red;
+    border-radius: 5px;
+}
+
+.wedo-imgages-4{
+    height: 270px;
+    width: 25%;
+    box-shadow: 1px 1px 3px 1px black;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.wedo-imgages-4 img{
+    height: 180px;
+    width: 300px;
+    margin: 5px;
+    border-radius: solid black;
+    background-color: red;
+    border-radius: 5px;
+}
+
+h1{
+    font-size: 23px;
+}

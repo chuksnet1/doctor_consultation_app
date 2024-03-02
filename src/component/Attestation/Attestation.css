@@ -1,0 +1,40 @@
+.attestation-container{
+    margin: 110px 0px 150px 0px;
+    background-color: white;
+    height: 450px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.attestation-left{
+    height: 100%;
+    width: 49%;
+    background-color: red;
+    border-radius: 20px 0 0 20px;
+    margin: 0 30px 0 80px;
+}
+
+.attestation-right{
+    height: 100%;
+    width: 49%;
+    padding: 30px;
+
+    
+}
+
+.attestation-left img{
+    height: 100%;
+    width: 100%;
+}
+
+.attestation-right h1{
+    color: rgb(53, 53, 128);
+    font-size: 30px;
+    font-weight: 800;
+    margin: 0 0 40px 0;
+}
+
+.attestation-right p{
+    margin-right: 50px;
+}
