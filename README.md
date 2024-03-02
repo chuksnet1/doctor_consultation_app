@@ -1,3 +1,7 @@
+**#About My Doctor consultation App**
+
+This is a master piece web app. This app is created to enable users talk and get health advice from our qualified health AI app. It act as a general consultant doctor at your finger tip.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
